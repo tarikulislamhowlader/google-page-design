@@ -1,0 +1,241 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+.body{
+    margin: 0;
+    padding: 0;
+    background-color: #fff
+    ;
+}
+/* .templete{
+    width: 960px;
+    margin:0 auto;
+} */
+/* .clear{
+    overflow: hidden;
+} */
+.header{}
+.img1{
+    float: right;
+    width: 35px;
+    height: 35px;
+    border-radius: 150px;
+    margin-right: 25px;
+    margin-top: 25px;
+}
+.img1:hover{
+    /* cursor: pointer; */
+}
+.img2{
+    float: right;
+    width: 35px;
+    height: 35px;
+    border-radius: 100px;
+    margin-right: 30px;
+    margin-top: 25px;
+}
+.img2:hover{
+    /* cursor: pointer; */
+}
+
+.a1:hover{
+    text-decoration: underline;
+}
+.a1{
+    float: right;
+    text-decoration: none;
+    font-size: 16px;
+    margin-top: 30px;
+    margin-right: 20px;
+    color: #000000DE;
+    font-family: Arial, sans-serif;
+}
+.a2:hover{
+    text-decoration: underline;
+}
+.a2{
+    float: right;
+    text-decoration: none;
+    font-size: 16px;
+    margin-top: 30px;
+    margin-right: 20px;
+    color: #000000DE;
+    font-family: arial, sans-serif;
+}
+.div2{
+    margin-left: 650px;
+    margin-top: 40px;
+}
+.googlebar{
+    width: 350px;
+    margin-left: 130px;
+    margin-top: 170px;
+}
+.div3{
+    border: 1px solid rgb(218, 213, 213);
+    width: 630px;
+    height: 50px;
+    border-radius: 60px;
+    margin-top: 18px;
+
+}
+.div3:hover{
+    border-color:hsl(210, 20%, 98%);
+    /* background-color: hsl(210, 90%, 45%); */
+    box-shadow: 1px 1px 1px 1px hsl(210, 8%, 95%);
+}
+.searchicon{
+    width: 20px;
+    float: left;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.searchicon:hover{
+    /* cursor: pointer; */
+}
+.input1{
+    float: left;
+    width: 520px;
+    height: 50px;
+    margin-left: 5px;
+    font-size: 16px;
+    border: 1px solid white;
+    /* position: fixed; */
+    border: none;
+}
+.input:hover{
+    /* color: hsl(210, 20%, 98%);
+    box-shadow: 5px 9px 14px 0px hsl(210, 78%, 43%); */
+}
+.clearicon{
+    float: right;
+    width: 15px;
+    margin-top: 16px;
+    margin-bottom:px;
+    margin-left: 3px;
+}
+.clearicon:hover{
+    /* cursor: pointer; */
+}
+.micicon{
+    float: right;
+    width: 15px;
+    margin-top: 14px;
+    margin-left: 14px;
+    margin-right: 17px;
+}
+.micicon:hover{
+    /* cursor: pointer; */
+}
+.button4{
+    background-color: #f8f9fa;
+    border: 2px solid #e9eaee;
+    font-size: 16px;
+    padding: 10px;
+    margin-left: 800px;
+    margin-top: 10px;
+    transition: 0.3s all;
+
+}
+.button4:hover{
+    cursor: pointer;
+    border: 2px solid #d1cccc;
+    border-radius: 5px;
+}
+.button5{
+    background-color: #f8f9fa;
+    border: 2px solid #e9eaee;
+    font-size: 16px;
+    padding: 10px;
+    margin-top: 20px;
+    transition: 0.3s all;
+
+}
+.button5:hover{
+    cursor: pointer;
+    border: 2px solid #d1cccc;
+    border-radius: 5px;
+}
+.label1{
+    margin-left: 850px;
+
+}
+.a3{
+    font-size: 12px;
+    text-decoration: none;
+    color: blue;
+}
+.a3:hover{
+    text-decoration: underline;
+}
+.div4{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(245, 244, 244);
+    margin-top: 273px;
+    padding-top: 10px;
+    padding-bottom: 53px;
+}
+.label2{
+    font-size: 20px;
+    color: #746c6c;
+    margin-left: 30px;
+    margin-bottom: 25px;
+}
+hr{
+    color: #babcbe;
+}
+.link1{
+    float: left;
+    text-decoration: none;
+    margin-left: 35px;
+    font-size: 18px;
+    color: #70757a;
+    margin-top: 10px;
+}
+.link1:hover{
+    text-decoration: underline;
+}
+.link2{
+    float: left;
+    text-decoration: none;
+    margin-left: 18px;
+    font-size: 18px;
+    color: #70757a;
+    margin-top: 10px;
+}
+.link2:hover{
+    text-decoration: underline;
+}
+.link3{
+    float: right;
+    text-decoration: none;
+    margin-right: 20px;
+    font-size: 18px;
+    color: #70757a;
+    margin-top: 10px;
+}
+.link3:hover{
+    text-decoration: underline;
+}
+.link4{
+    float: right;
+    text-decoration: none;
+    font-size: 18px;
+    margin-right: 18px;
+    margin-top: 10px;
+    color: #70757a;
+}
+.link4:hover{
+    text-decoration: underline;
+}
+/* .container a{
+    float: right;
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    margin-top: 20px;
+    margin-right: 30px;
+} */
